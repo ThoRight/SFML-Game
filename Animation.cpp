@@ -3,6 +3,7 @@ void Animation::update()
 {
 	if (m_limit % m_speed == 0)
 	{
+		
 		sf::IntRect rect(m_FW*m_currentFrameanim+m_startX, m_startY, m_FW, m_size.y);
 		m_sprite.setTextureRect(rect);
 		m_limit = 0;
