@@ -12,6 +12,7 @@ public:
 		name = n;
 		type = t;
 	}
+	
 	Action(Action& a)
 	{
 		name = a.name;
