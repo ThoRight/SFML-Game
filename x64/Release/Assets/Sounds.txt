@@ -1,0 +1,4 @@
+CoinPickUp	./Assets/coinpickup.wav
+Fire		./Assets/fire.wav
+Explosion	./Assets/explosion.wav
+Ambience	./Assets/ambience.wav

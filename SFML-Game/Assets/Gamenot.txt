@@ -1,0 +1,11 @@
+Player Enemy Fire Tile Coin
+
+Player Enemy
+Player Tile
+Player Coin
+
+
+
+Enemy AI (movement attack)
+menu, choose mode, health, finish game
+camera

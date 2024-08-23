@@ -1,0 +1,24 @@
+﻿  Main.cpp
+C:\Users\murat\OneDrive\Masaüstü\Muro Uni\cpp\mario\mario\Animation.h(75,52): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\murat\OneDrive\Masaüstü\Muro Uni\cpp\mario\mario\Animation.h(75,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\murat\OneDrive\Masaüstü\Muro Uni\cpp\mario\mario\Animation.h(75,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\murat\OneDrive\Masaüstü\Muro Uni\cpp\mario\mario\Animation.h(75,20): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\murat\OneDrive\Masaüstü\Muro Uni\cpp\mario\mario\Game.h(78,5): warning C4150: deletion of pointer to incomplete type 'Scene'; no destructor called
+C:\Users\murat\OneDrive\Masaüstü\Muro Uni\cpp\mario\mario\Game.h(7,7): message : see declaration of 'Scene'
+  SFML-Game.vcxproj -> C:\Users\murat\OneDrive\Masaüstü\Muro Uni\Github\SFML-Game\x64\Debug\SFML-Game.exe
